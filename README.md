@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá!!! 👋
+## Sou LUCIO FLÁVIO SANTOS
 
-<!--
-**luciofs/luciofs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Profissional proativo e disciplinado, com uma forte capacidade de análise para identificar, planejar e implementar mudanças nos recursos e processos da TI. Com uma sólida experiência em gestão de recursos tecnológicos, infraestrutura, equipes e fornecedores.
 
-Here are some ideas to get you started:
+##### Estou em contínuo aprendizado, atualmente me dedico aos estudos das seguintes LINGUAGENS DE PROGRAMAÇÃO:
+    ⏳ HTML  		    🌈 CSS 		    🏫 JavaScript		      🥅 .NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Minhas CERTIFICAÇÕES da Área de INFRAESTRUTURA DE TI:
+    📚 HCIA 5G - Huawei (VALIDADE: 01/07/2021 a 23/06/2024)
+
+    📚 MCP - Microsoft Certified Professional - Windows Server (Lanlink Fortaleza 2010)
+
+📫 lucioflasan@gmail.com
+
